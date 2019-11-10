@@ -1,0 +1,6 @@
+voila
+bqplot==0.11
+qgrid
+numpy
+pandas
+ipyvuetify==1.0.4
